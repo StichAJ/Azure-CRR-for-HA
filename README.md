@@ -77,16 +77,3 @@ The architecture is designed to:
 - **Security:** Role-based access, encryption, and region-pairing support compliance needs.
 - **Scalability:** Multi-region architecture supports enterprise-level workloads.
 
----
-
-## 📌 Next Steps
-
-- Add architectural diagram and visuals
-- Include Terraform or Bicep templates (future update)
-- Expand documentation with setup examples and monitoring practices
-
----
-
-## 🤝 Collaboration
-
-This project is open for community input. Whether you're seasoned in Azure or just starting out like me, I’d love to hear your insights. Feel free to share thoughts, ideas, or improvements!
